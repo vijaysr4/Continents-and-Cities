@@ -1,6 +1,6 @@
 //a program that prints a continent and it's largest cities
 public class Continents {
-	public static void main(String[] args) {
+  public static void main(String[] args) {
     int continent = 4;
     switch (continent) {
       //case 1
